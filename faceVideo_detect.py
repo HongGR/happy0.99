@@ -1,5 +1,5 @@
 import cv2
-
+#이준혁의 주석
 cap = cv2.VideoCapture(0) # 카메라 설정
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')  #정면 얼굴 casacdaClassifier
 
